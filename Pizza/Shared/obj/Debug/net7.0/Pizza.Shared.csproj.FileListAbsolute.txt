@@ -1,0 +1,12 @@
+C:\Users\Omar\source\Pizza\Pizza\Shared\bin\Debug\net7.0\Pizza.Shared.deps.json
+C:\Users\Omar\source\Pizza\Pizza\Shared\bin\Debug\net7.0\Pizza.Shared.dll
+C:\Users\Omar\source\Pizza\Pizza\Shared\bin\Debug\net7.0\Pizza.Shared.pdb
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.csproj.AssemblyReference.cache
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.AssemblyInfoInputs.cache
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.AssemblyInfo.cs
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.dll
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\refint\Pizza.Shared.dll
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\Pizza.Shared.pdb
+C:\Users\Omar\source\Pizza\Pizza\Shared\obj\Debug\net7.0\ref\Pizza.Shared.dll
